@@ -1,3 +1,4 @@
+# Unity
 [Ll]ibrary/
 [Tt]emp/
 [Oo]bj/
@@ -5,3 +6,18 @@
 [Bb]uilds/
 [Ll]ogs/
 UserSettings/
+MemoryCaptures/
+.vs/
+*.csproj
+*.sln
+*.user
+*.unityproj
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+
+# Node/Firebase caches
+node_modules/
+.cache/
+.firebase/
