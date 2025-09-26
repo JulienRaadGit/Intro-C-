@@ -4,7 +4,6 @@ using UnityEngine;
 public class Generator : MonoBehaviour
 {
     [SerializeField] private Particle ParticlePrefab;
-
     [SerializeField] private float rate;
     [SerializeField] private float minTimeToLive;
     [SerializeField] private float maxTimeToLive;
